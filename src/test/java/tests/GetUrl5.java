@@ -40,5 +40,7 @@ public class GetUrl5
         } 
         //3. Launch site
         driver.get(url);
+        
+        System.out.println("This is my first change");
 	}
 }
